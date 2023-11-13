@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @smithharryh
-- 👀 I’m interested in Artificial Intelligence, Deep Learning and Digital Health
-- 🌱 I’m currently learning ... lots! I am studying for a MSc in Digital Health at the University of St Andrews.
+- 👀 I’m interested in Artificial Intelligence, Data Science and Machine Learning
+- 🌱 I’m currently learning ... lots! I'm working as a freelancer on Data Science projects!
 - 📫 Send me an email at smithharryh at icloud dot com
 
-I love learning about artificial intelligence and machine learning, particularly applied to healthcare. I graduated with a 1st class degree in Computer Science in 2021 and currently study for an MSc in Digital Health.
+I love learning about artificial intelligence and machine learning. I read loads and love working on quick personal projects. My startup <a href="www.ecofithomes.com">Ecofit Homes</a> is the best (I am biased) data player in the retrofit space!
